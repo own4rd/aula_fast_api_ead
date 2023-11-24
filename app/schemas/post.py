@@ -1,13 +1,13 @@
 from typing import Optional
 from pydantic import BaseModel
 
-class PostBase(BaseModel):
+class PostBaseSchema(BaseModel):
     title: str
 
-class PostCreate(PostBase):
+class PostCreateSchema(PostBaseSchema):
     pass
 
-class Post(PostBase):
+class PostSchema(PostBaseSchema):
     id: Optional[int] = None
 
     class Config:
