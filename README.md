@@ -18,6 +18,8 @@ python main.py
 
 Códigos para fins didáticos. Por este motivo, em alguns locais podem existir "bugs" objetivando incentivar a pesquisa nos alunos. O mesmo em relação a arquitetura (sem arquitetura).
 
+Uma arquitetura aplicada pode ser vista/estudada na branch: 
+- [feature/applying-architeture](https://github.com/own4rd/aula_fast_api_ead/tree/feature/applying-architeture).
 
 ## Autores
 
